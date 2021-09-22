@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -76,7 +76,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 136
+  controlID: 47
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 42
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 51
+  controlID: 133
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -420,9 +420,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 04840000
-      m_LastClickedID: 33796
-      m_ExpandedIDs: cc66ffffe066ffffea6bffff506cffff146effff2e6effff2470fffffa71ffffc072ffff0073ffff1873ffffe676ffff3678ffffd07affff447bffff5e83ffff8a88ffffa28bfffffe8bffff3a8dffff808dffffe49dffff8c9effffc69fffffe49fffffc2a2ffffe8a2ffff58a8ffffb2a9ffff06b6ffff00b7fffff2baffff12bbffff5ac1ffffb4c1ffffcac1ffffd8c1ffff92c4ffffecc4ffff18c7ffffbcc7ffff62c8ffff76c8ffff8cc8ffff9ec8ffffceceffff26cfffff3ccfffff50cfffff2ed2ffffbed3ffffe2d3ffff0ad5ffff4cd7ffffa8d7ffffc0d7ffffe6daffff80dbfffff4dbffff44dcffff3adeffff94e0ffffc8e3ffffd6e3ffff18e6ffff0ae9ffff4aeaffff5eeaffffa8ebffffceecffff2cf1ffffbcf1ffffd2f1ffff16f8ffff40fbffff96410000ec410000d85000004a5300000c540000de570000b0580000f25800007c5d0000fe630000b2640000086500002a650000bc6a0000ca6d0000f66d0000406e0000486e0000287a0000307a00005e8000009480000004840000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 64faffff40fbffffd2400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -521,22 +521,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Scene04
+    - Assets/Scenes/Scene03
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/Scene04
+  - Assets/Scenes/Scene03
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\a7\\OneDrive - \uC131\uADE0\uAD00\uB300\uD559\uAD50\\2021-1.5\\Unity\\Jay_escape"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5a500000
-    m_LastClickedID: 20570
-    m_ExpandedIDs: 00000000244000002a40000000ca9a3b
+    m_SelectedIDs: 56400000
+    m_LastClickedID: 16470
+    m_ExpandedIDs: 00000000464000004a40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -564,7 +564,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6530000
     m_LastClickedID: 21430
-    m_ExpandedIDs: 0000000024400000
+    m_ExpandedIDs: 0000000046400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 193
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -678,7 +678,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -745,9 +745,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -339.57446, y: 309.20026, z: -131.4299}
+    m_Target: {x: 252.8944, y: 330.86694, z: -153.51935}
     speed: 2
-    m_Value: {x: -303.6549, y: 326.71768, z: -127.51944}
+    m_Value: {x: 252.8944, y: 330.86694, z: -153.51935}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -798,9 +798,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 908.09503
+    m_Target: 1082.9202
     speed: 2
-    m_Value: 868.9905
+    m_Value: 1082.9202
   m_Ortho:
     m_Target: 1
     speed: 2
