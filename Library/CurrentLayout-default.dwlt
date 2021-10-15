@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 456
     width: 470
     height: 491
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 14}
@@ -73,10 +73,10 @@ MonoBehaviour:
     y: 0
     width: 470
     height: 947
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 138
+  controlID: 58
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -99,7 +99,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -152,10 +152,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 708, y: 492}
-  m_MaxSize: {x: 18003, y: 14042}
+  m_MinSize: {x: 708, y: 471}
+  m_MaxSize: {x: 18003, y: 14021}
   vertical: 0
-  controlID: 132
+  controlID: 122
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -198,10 +198,10 @@ MonoBehaviour:
     y: 0
     width: 1002
     height: 947
-  m_MinSize: {x: 201, y: 442}
-  m_MaxSize: {x: 4001, y: 8042}
+  m_MinSize: {x: 201, y: 421}
+  m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 64
+  controlID: 98
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,8 +299,8 @@ MonoBehaviour:
     y: 490
     width: 1002
     height: 457
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -420,9 +420,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 5a400000
       m_LastClickedID: 0
-      m_ExpandedIDs: 32d0ffff4cd0ffff4ed0ffff52d0ffff56d0ffff5ad0ffff5ed0ffffd4d0ffffeed0fffff0d0fffff4d0fffff8d0fffffcd0ffff00d1ffffccd1ffffecd1ffff0ad2ffff70d2ffffc0d2ffff72d4ffff10d5ffff2ad5ffffe4d5fffff0d5ffff00d6ffff0ed6ffff1ed6ffff34d9ffff90d9ffffaad9ffffacd9ffffb0d9ffffb4d9ffffb8d9ffffbcd9ffff1cdaffff36daffff38daffff3cdaffff40daffff44daffff48daffffbcdaffffd6daffff8edbffff9adbffffaadbffffb8dbffffc0dbffffb8dcffffeeddffffb6e7ffff00e8ffff8ae8ffffa0e8ffff00e9ffffece9ffffe6eafffffceaffffc6f9ffffdaf9ffff40fbffff7a500000865b0000345c00006c5c0000f45d0000325e00009e610000ee6d00005c7100000072000046720000d6730000
+      m_ExpandedIDs: 3ef9ffff52f9ffff66f9ffff7af9ffff7afaffff40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -534,9 +534,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e400000
-    m_LastClickedID: 16526
-    m_ExpandedIDs: 00000000864000008e40000000ca9a3b
+    m_SelectedIDs: 3c400000
+    m_LastClickedID: 16444
+    m_ExpandedIDs: 000000003440000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -564,7 +564,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6530000
     m_LastClickedID: 21430
-    m_ExpandedIDs: 0000000086400000
+    m_ExpandedIDs: 0000000034400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -745,9 +745,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 869.1731, y: 776.86, z: -81.653755}
+    m_Target: {x: 186.37361, y: 231.27118, z: -255.67213}
     speed: 2
-    m_Value: {x: 869.17303, y: 776.8599, z: -81.65375}
+    m_Value: {x: 259.54346, y: 239.4122, z: -251.24422}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -798,9 +798,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 1028.2616
     speed: 2
-    m_Value: 10.000051
+    m_Value: 983.9824
   m_Ortho:
     m_Target: 1
     speed: 2
