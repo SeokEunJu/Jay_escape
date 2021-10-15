@@ -178,7 +178,7 @@ GameObject:
   - component: {fileID: 158232154}
   - component: {fileID: 158232153}
   - component: {fileID: 158232152}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -197,7 +197,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1984576662}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -375,7 +375,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1984576662}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20.144}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -657,7 +657,7 @@ RectTransform:
   - {fileID: 1071124624}
   - {fileID: 1797672433}
   m_Father: {fileID: 1984576662}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1574,9 +1574,9 @@ RectTransform:
   m_Children:
   - {fileID: 1258211563}
   - {fileID: 947194808}
+  - {fileID: 506514476}
   - {fileID: 158232151}
   - {fileID: 854834651}
-  - {fileID: 506514476}
   - {fileID: 1120079539}
   m_Father: {fileID: 0}
   m_RootOrder: 2
