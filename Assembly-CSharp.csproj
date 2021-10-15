@@ -36,16 +36,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scenes\scene02\scene02_right.cs" />
+     <Compile Include="Assets\Scenes\Scene03\get_out.cs" />
      <Compile Include="Assets\Scenes\scene01\scene01_right.cs" />
      <Compile Include="Assets\Scenes\scene01\scene01_left.cs" />
+     <Compile Include="Assets\Scenes\scene02\change_frame.cs" />
+     <Compile Include="Assets\Scenes\Scene04\scene04_right.cs" />
      <Compile Include="Assets\Scenes\scene02\scene02_left.cs" />
-     <Compile Include="Assets\Scenes\scene02\scene02_right.cs" />
      <Compile Include="Assets\Scenes\Scene03\scene03_right.cs" />
      <Compile Include="Assets\Scenes\Scene03\scene03_left.cs" />
-     <Compile Include="Assets\Scenes\Scene04\scene04_right.cs" />
      <Compile Include="Assets\Scenes\Scene04\scene04_left.cs" />
-     <Compile Include="Assets\Scenes\scene02\change_frame.cs" />
-     <Compile Include="Assets\Scenes\Scene03\get_out.cs" />
+     <Compile Include="Assets\Scenes\quit_game.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
